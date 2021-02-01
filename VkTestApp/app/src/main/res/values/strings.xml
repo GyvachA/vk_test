@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VkTestApp</string>
+    <string name="zero_input">Your message must be more than zero characters</string>
+    <string name="input_hint">Write your text here</string>
+    <string name="start_text">Start text</string>
+    <string name="btn_inp_text">Change text</string>
+</resources>
