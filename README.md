@@ -8,11 +8,11 @@
 
 ## Тесты
 
-Краткие описания тестов представлены в комментариях в коде
-Код тестов можно найти в директории "vk_test/VkTestApp/app/src/androidTest/java/ru/gyvacha/vktestapp/"
+- краткие описания тестов представлены в комментариях в коде
+- код тестов можно найти в директории "vk_test/VkTestApp/app/src/androidTest/java/ru/gyvacha/vktestapp/"
 
 ## Автор
 
-Платонов Егор Николаевич
-gyvacha@gmail.com
-+7(950) 034-60-95
+- Платонов Егор Николаевич
+- gyvacha@gmail.com
+- +7(950) 034-60-95
